@@ -49,10 +49,12 @@ p::before {
   list-style: none;
   padding: 0px;
 }
+
 button {
   display: block;
-margin: 40px auto;
-width: 40%;
-padding: 15px;
-font-size: 23px;
-background: #d0d0d5;}
+  margin: 40px auto;
+  width: 40%;
+  padding: 15px;
+  font-size: 23px;
+  background: #d0d0d5;
+}
